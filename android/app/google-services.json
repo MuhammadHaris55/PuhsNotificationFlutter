@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "97756605143",
+    "project_id": "flutterdogtagapp",
+    "storage_bucket": "flutterdogtagapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97756605143:android:a2c902c1703ac32149de92",
+        "android_client_info": {
+          "package_name": "com.flutterdogtagapp.flutterdogtagapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97756605143-rgjqt3jsdatc2rsnr5af8f164740tl8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.flutterdogtagapp.flutterdogtagapp",
+            "certificate_hash": "ead7066f57ed67f100d50aa73ca9efaec2aaea14"
+          }
+        },
+        {
+          "client_id": "97756605143-t8sli7hfpncgaesiftr13c8m9tk037i1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMSkf-571xtrkNdwN342itkj3WAInU22I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97756605143-t8sli7hfpncgaesiftr13c8m9tk037i1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
